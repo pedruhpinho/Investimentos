@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rederizou corretamente 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#f4f4f4",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#f4f4f4",
+        "flexDirection": "row",
+        "padding": 20,
+      }
+    }
+  >
+    <Text>
+      INVESTIMENTOS
+    </Text>
+    <View
+      style={
+        Object {
+          "marginLeft": "auto",
+        }
+      }
+    >
+      <Text>
+        R$
+      </Text>
+    </View>
+  </View>
+</View>
+`;
